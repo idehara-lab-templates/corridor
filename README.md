@@ -8,6 +8,8 @@
 
 # 課題
 
+https://replit.com/@idehara/corridor を開き
+
 `Walker.java` の３つの定数
 - `final float SHIYA_KYORI = 20.0f;`
 - `final float SHOTOTSU_KYORI = 3.0f;`
